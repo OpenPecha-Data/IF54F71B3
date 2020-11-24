@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W6472
   title: ཆོས་བཤད་གཞན་ཕན་ཟླ་བ།
-  volume: ''
+  volume:
+    51cb387adf1c4e46b344d317113defc5:
+      image_group_id: I1KG17043
+      title: Volume 1 of chos bshad gzhan phan zla ba/
+      volume_number: 1
+      total_pages: 327
   author: ''
+ebook_metadata:
+  title: ཆོས་བཤད་གཞན་ཕན་ཟླ་བ།
+  author: ''
+  sku: P000447
+  cover: cover.jpg
+  layers:
+  - pagination
